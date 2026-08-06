@@ -1,0 +1,10 @@
+{
+  "name": "YveChat",
+  "short_name": "YveChat",
+  "description": "A local-first interface for AI models running on your hardware.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07110b",
+  "theme_color": "#07110b",
+  "icons": [{ "src": "/brand/yvechat-mark-green-compact.png", "sizes": "512x512", "type": "image/png" }]
+}
